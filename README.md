@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darshika20
 - 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning kubernetes and DSA
+- 🌱 I’m an evergreen learner
 - 💞️ I’m looking to collaborate on challenging projects
 - � You all can reach me via 
       email : darshikajha05@gmail.com
